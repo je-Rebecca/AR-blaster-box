@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fcd05f8ab90b5ec4796a3a813841d821
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PlacementIndicator: {instanceID: 0}
+  - arObjectToSpawn: {instanceID: 0}
+  - closebtn: {instanceID: 0}
+  - PlacementButton: {instanceID: 0}
+  - BigImagePanel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

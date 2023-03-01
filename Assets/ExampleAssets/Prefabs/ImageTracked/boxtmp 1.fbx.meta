@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 39b0152beeda6434e8299dcecdcee68c
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: 9036694105013053538
+    second: Cube|Cube.001Action
+  - first:
+      74: -3999578356269874737
+    second: Cube|CubeAction
+  - first:
+      74: 8917666707927292415
+    second: Cube|EmptyAction.001
+  - first:
+      74: -3905063742059611638
+    second: Cube|NurbsPathAction.001
+  - first:
+      74: 1567606062312136507
+    second: Cube|PlaneAction.003
+  - first:
+      74: 2592182017568627919
+    second: Cube|result_c-removebg-preview_256Action
+  - first:
+      74: -8515560403302317629
+    second: Cube.001|Cube.001Action
+  - first:
+      74: 17017395923089283
+    second: Cube.001|CubeAction
+  - first:
+      74: -6800936359283951814
+    second: Cube.001|EmptyAction.001
+  - first:
+      74: 4251647265852276834
+    second: Cube.001|NurbsPathAction.001
+  - first:
+      74: -475114385244645956
+    second: Cube.001|PlaneAction.003
+  - first:
+      74: -6440011603807639659
+    second: Cube.001|result_c-removebg-preview_256Action
+  - first:
+      74: 518122689815398630
+    second: result_c-removebg-preview_256|Cube.001Action
+  - first:
+      74: 8758924722018165665
+    second: result_c-removebg-preview_256|CubeAction
+  - first:
+      74: 3512641209527833206
+    second: result_c-removebg-preview_256|EmptyAction.001
+  - first:
+      74: 7122888619285226620
+    second: result_c-removebg-preview_256|NurbsPathAction.001
+  - first:
+      74: 4224584273942529627
+    second: result_c-removebg-preview_256|PlaneAction.003
+  - first:
+      74: 3473071402649833029
+    second: result_c-removebg-preview_256|result_c-removebg-preview_256Action
+  - first:
+      74: -3851250310652265543
+    second: Plane|Cube.001Action
+  - first:
+      74: -4174240525590597537
+    second: Plane|CubeAction
+  - first:
+      74: -4614967479947187455
+    second: Plane|EmptyAction.001
+  - first:
+      74: -6378920818448505629
+    second: Plane|NurbsPathAction.001
+  - first:
+      74: -8132194914979153215
+    second: Plane|PlaneAction.003
+  - first:
+      74: -1267293378305268099
+    second: Plane|result_c-removebg-preview_256Action
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
