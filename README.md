@@ -9,12 +9,13 @@ Blender (3D animation ), Unity AR
 
 
 ### Features 
-1. Providing baseball match information
+1. Providing baseball match information <br/><br/>
 ![infor](https://user-images.githubusercontent.com/67889991/222173260-b23cb5d2-c514-491b-b85c-716ab101e8e1.gif)
 
 
-2. scanning ticket, AR random 3D player will pop up on screen. 
+2. scanning ticket, AR random 3D player will pop up on screen.  <br/><br/>
 ![place](https://user-images.githubusercontent.com/67889991/222171916-e1d0a6b7-7491-4e86-97ab-a6f241398cfc.gif)
- This 3D player can browse anytime, anywhere. user can share it to other. 
+ This 3D player can browse anytime, anywhere. user can share it to other.  <br/><br/> 
 ![popup](https://user-images.githubusercontent.com/67889991/222171932-fa76252c-a99b-4d46-b493-8d287edea9ab.gif)
+<br/>
 ![capture](https://user-images.githubusercontent.com/67889991/222172831-844d771a-7545-4548-a051-be6b841ce745.gif)
